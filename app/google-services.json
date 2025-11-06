@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038879662173",
+    "project_id": "upload-pdf-file-617bc",
+    "storage_bucket": "upload-pdf-file-617bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038879662173:android:e86f99791f7649ac1bedb4",
+        "android_client_info": {
+          "package_name": "com.example.myuploadpdffileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHrBtvEjZbNCFJizIspPjaHj2_DVkTWgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
